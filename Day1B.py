@@ -1,3 +1,6 @@
+# Triangle
+# link: https://workat.tech/problem-solving/practice/triangle
+
 n = int(input())
 
 for i in range(0, n):
