@@ -1,6 +1,7 @@
 // Pascal's Triangle
 // link: https://workat.tech/problem-solving/practice/pascals-triangle
 // change Day2A to Solution at the portal
+
 class Day2A {	
 	int[] pascalTriangleRow(int rowNo) {
 		ArrayList<Integer> list = new ArrayList<Integer>();
